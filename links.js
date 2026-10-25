@@ -2,8 +2,8 @@
 // While a link is empty the page shows "Coming soon on Amazon" in the book's language.
 // Kept in sync by kdp-books/marketing/_tools/build.py from marketing/links.json.
 window.GACRUX_LINKS = {
-  "04-navidad-es": "",  // libro-actividades-navidad
-  "04-natal-ptbr": "",  // livro-atividades-natal
+  "04-navidad-es": "https://www.amazon.es/dp/B0HP7ZJZBN",  // libro-actividades-navidad
+  "04-natal-ptbr": "https://www.amazon.com/dp/B0HP7X543S",  // livro-atividades-natal
   "02-ingles-ptbr": "https://www.amazon.com/dp/B0HP6PJYR3",  // ingles-para-criancas
   "02-ingles-es": "",  // ingles-para-ninos
   "02-ingles-fr": "",  // anglais-pour-enfants
