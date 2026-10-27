@@ -5,8 +5,8 @@
 window.GACRUX_AFFILIATE_TAG = "edicoesgacrux-21";
 window.GACRUX_LINKS = {
   "04-navidad-es": "https://www.amazon.es/dp/B0HP7ZJZBN",  // libro-actividades-navidad
-  "04-natal-ptbr": "https://www.amazon.com/dp/B0HP7X543S",  // livro-atividades-natal
-  "02-ingles-ptbr": "https://www.amazon.com/dp/B0HP6PJYR3",  // ingles-para-criancas
+  "04-natal-ptbr": "https://www.amazon.es/dp/B0HP7X543S",  // livro-atividades-natal
+  "02-ingles-ptbr": "https://www.amazon.es/dp/B0HP6PJYR3",  // ingles-para-criancas
   "02-ingles-es": "",  // ingles-para-ninos
   "02-ingles-fr": "",  // anglais-pour-enfants
   "02-ingles-it": "",  // inglese-per-bambini
